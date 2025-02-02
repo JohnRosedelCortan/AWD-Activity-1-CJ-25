@@ -60,5 +60,3 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("loopOutput").innerText = `The sum of numbers from 1 to ${num} is ${sum}.`;
     });
 });
-
-
